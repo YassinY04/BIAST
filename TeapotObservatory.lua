@@ -1,0 +1,2 @@
+{
+  ["TeapotObservatory"] = {"Drakkobloxxer", "ScrollOfSevenless", "Teapot"}}
